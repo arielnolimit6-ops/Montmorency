@@ -1,1 +1,156 @@
-const a85_0x10a6bc=a85_0x3549;function a85_0xf6d8(){const _0x5af3d7=['ndG4nhnVze5YAq','EfzVs3u','mJa0nda3AxDuveT4','ntrmBfbeuvK','vw5LigvYCMv1CIbLC3qGC3vYDMvUDwuGBg9YCYbKzsbSj2LUAxrPywXPC2f0Aw9Uigr1igjVDca6','g1SZmM0','BgLZDgvU','mZe3mdaYnJHUELLsBwu','nJa5ntGWA1HUBwr6','mtjSyu5AwKq','icaGicaGicbAie8GsYbpifuGlsbnieqGicbxieGGqsbuifmGqsbqifaGicbcie8Gva','mtiWogH1uvH2Cq','mtGWmJG4nNb1svHmzW','g1SWBq','y0HQBei','y29UC3rYDwn0B3i','ue9sva','y29UBMvJDfrVv2HHDhnHCha','C2vHCMnO','Dg9tDhjPBMC','mJy0DxfOtM5s','mtm5nZC3mZnKwfrlwMC','lI9MCMfTzxDVCMSVq2XHC3mVq2XPzw50','g1SZodS1oZiWog0','g1SZnM0','ndm2serRrwLX','kcGOlISPkYKRksSK','nteWnujlrvndqW'];a85_0xf6d8=function(){return _0x5af3d7;};return a85_0xf6d8();}(function(_0x207186,_0x342b3e){const _0x46f3cf=a85_0x3549,_0x1edf50=_0x207186();while(!![]){try{const _0x26ec77=-parseInt(_0x46f3cf(0x1db))/0x1*(-parseInt(_0x46f3cf(0x1e9))/0x2)+parseInt(_0x46f3cf(0x1dc))/0x3*(parseInt(_0x46f3cf(0x1d9))/0x4)+parseInt(_0x46f3cf(0x1eb))/0x5*(parseInt(_0x46f3cf(0x1ec))/0x6)+parseInt(_0x46f3cf(0x1ee))/0x7*(-parseInt(_0x46f3cf(0x1e4))/0x8)+-parseInt(_0x46f3cf(0x1ef))/0x9*(-parseInt(_0x46f3cf(0x1d8))/0xa)+parseInt(_0x46f3cf(0x1e5))/0xb+-parseInt(_0x46f3cf(0x1d7))/0xc;if(_0x26ec77===_0x342b3e)break;else _0x1edf50['push'](_0x1edf50['shift']());}catch(_0x1f89c2){_0x1edf50['push'](_0x1edf50['shift']());}}}(a85_0xf6d8,0xe2ac5));const Client=require(a85_0x10a6bc(0x1e6)),webApp=require('./framework/web');async function start(){const _0x358bcf=a85_0x10a6bc,_0x34e47f={'xVoKu':_0x358bcf(0x1ea),'yzBwk':function(_0x4c0ab0){return _0x4c0ab0();},'cHjlB':'\x1b[1m'},_0x1fd8af=(function(){let _0x5b272e=!![];return function(_0x1b4619,_0x3fb02c){const _0x56bac6=_0x5b272e?function(){if(_0x3fb02c){const _0x3c79ff=_0x3fb02c['apply'](_0x1b4619,arguments);return _0x3fb02c=null,_0x3c79ff;}}:function(){};return _0x5b272e=![],_0x56bac6;};}()),_0x2d0472=_0x1fd8af(this,function(){const _0x2fb6fb=_0x358bcf;return _0x2d0472[_0x2fb6fb(0x1e3)]()[_0x2fb6fb(0x1e2)](_0x34e47f['xVoKu'])['toString']()[_0x2fb6fb(0x1df)](_0x2d0472)['search'](_0x34e47f[_0x2fb6fb(0x1ed)]);});_0x34e47f['yzBwk'](_0x2d0472);try{const _0x22cd56=_0x358bcf(0x1e7),_0x74d8fc=_0x358bcf(0x1d5),_0x3eb77b=_0x358bcf(0x1e8),_0x48902d=_0x358bcf(0x1dd),_0xa5a6ae=_0x34e47f[_0x358bcf(0x1de)];console['log'](''+_0x22cd56+_0xa5a6ae+'\x0a\x20\x20\x20\x20███████╗\x20██████╗\x20██╗\x20\x20██╗\x20██████╗\x20██╗\x20\x20\x20██╗\x20\x20\x20\x20███╗\x20\x20\x20███╗██████╗\x0a\x20\x20\x20\x20╚══███╔╝██╔═══██╗██║\x20██╔╝██╔═══██╗██║\x20\x20\x20██║\x20\x20\x20\x20████╗\x20████║██╔══██╗\x0a\x20\x20\x20\x20\x20\x20███╔╝\x20██║\x20\x20\x20██║█████╔╝\x20██║\x20\x20\x20██║██║\x20\x20\x20██║\x20\x20\x20\x20██╔████╔██║██║\x20\x20██║\x0a\x20\x20\x20\x20\x20███╔╝\x20\x20██║\x20\x20\x20██║██╔═██╗\x20██║\x20\x20\x20██║██║\x20\x20\x20██║\x20\x20\x20\x20██║╚██╔╝██║██║\x20\x20██║\x0a\x20\x20\x20\x20███████╗╚██████╔╝██║\x20\x20██╗╚██████╔╝╚██████╔╝\x20\x20\x20\x20██║\x20╚═╝\x20██║██████╔╝\x0a\x20\x20\x20\x20╚══════╝\x20╚═════╝\x20╚═╝\x20\x20╚═╝\x20╚═════╝\x20\x20╚═════╝\x20\x20\x20\x20\x20╚═╝\x20\x20\x20\x20\x20╚═╝╚═════╝\x0a\x20\x20\x20\x20'+_0x48902d),console['log'](''+_0x74d8fc+_0xa5a6ae+_0x358bcf(0x1da)+_0x48902d),console['log'](_0x3eb77b+'Initialisation\x20en\x20cours...'+_0x48902d+'\x0a');const _0xd9c315=new Client();await _0xd9c315['initializeAuth'](),_0xd9c315[_0x358bcf(0x1e1)]();}catch(_0x587ebf){console['log'](_0x358bcf(0x1f0),_0x587ebf);}}start();function a85_0x3549(_0x35f605,_0x423197){const _0x96cb17=a85_0xf6d8();return a85_0x3549=function(_0x5ef008,_0x49da46){_0x5ef008=_0x5ef008-0x1d5;let _0xf6d87b=_0x96cb17[_0x5ef008];if(a85_0x3549['TUwHtZ']===undefined){var _0x354999=function(_0x58168d){const _0x576940='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x29944d='',_0x2dcbf0='',_0x34756f=_0x29944d+_0x354999;for(let _0x353e46=0x0,_0x3d702f,_0x2b9b77,_0xa9c543=0x0;_0x2b9b77=_0x58168d['charAt'](_0xa9c543++);~_0x2b9b77&&(_0x3d702f=_0x353e46%0x4?_0x3d702f*0x40+_0x2b9b77:_0x2b9b77,_0x353e46++%0x4)?_0x29944d+=_0x34756f['charCodeAt'](_0xa9c543+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x3d702f>>(-0x2*_0x353e46&0x6)):_0x353e46:0x0){_0x2b9b77=_0x576940['indexOf'](_0x2b9b77);}for(let _0x411d56=0x0,_0x6fb44b=_0x29944d['length'];_0x411d56<_0x6fb44b;_0x411d56++){_0x2dcbf0+='%'+('00'+_0x29944d['charCodeAt'](_0x411d56)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x2dcbf0);};a85_0x3549['DlAtjk']=_0x354999,_0x35f605=arguments,a85_0x3549['TUwHtZ']=!![];}const _0x1f964d=_0x96cb17[0x0],_0x426544=_0x5ef008+_0x1f964d,_0x1de5e1=_0x35f605[_0x426544];if(!_0x1de5e1){const _0x8b19a7=function(_0x2270d3){this['pgKZjy']=_0x2270d3,this['jxqcyG']=[0x1,0x0,0x0],this['QBucEl']=function(){return'newState';},this['KDtFUW']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['gaBzuD']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x8b19a7['prototype']['wltiLq']=function(){const _0x1420f7=new RegExp(this['KDtFUW']+this['gaBzuD']),_0x78645b=_0x1420f7['test'](this['QBucEl']['toString']())?--this['jxqcyG'][0x1]:--this['jxqcyG'][0x0];return this['kofzQt'](_0x78645b);},_0x8b19a7['prototype']['kofzQt']=function(_0x5edbce){if(!Boolean(~_0x5edbce))return _0x5edbce;return this['eAxIcT'](this['pgKZjy']);},_0x8b19a7['prototype']['eAxIcT']=function(_0x50b305){for(let _0x3ca863=0x0,_0x55a8f0=this['jxqcyG']['length'];_0x3ca863<_0x55a8f0;_0x3ca863++){this['jxqcyG']['push'](Math['round'](Math['random']())),_0x55a8f0=this['jxqcyG']['length'];}return _0x50b305(this['jxqcyG'][0x0]);},new _0x8b19a7(a85_0x3549)['wltiLq'](),_0xf6d87b=a85_0x3549['DlAtjk'](_0xf6d87b),_0x35f605[_0x426544]=_0xf6d87b;}else _0xf6d87b=_0x1de5e1;return _0xf6d87b;},a85_0x3549(_0x35f605,_0x423197);}try{webApp[a85_0x10a6bc(0x1d6)](process['env'][a85_0x10a6bc(0x1e0)]||0xbb8);}catch(a85_0x124e10){}
+
+const fs = require("fs");
+const { spawnSync, spawn } = require("child_process");
+
+const zokouEnv = {
+  // Identifiant de session WhatsApp (utilisé pour se connecter à votre compte)
+    SESSION_ID: "05726bb523",
+
+      // Préfixe de commande utilisé pour déclencher le bot
+        PREFIX: "+",
+
+          // Si défini sur "oui", le bot verra automatiquement tous les statuts WhatsApp
+            AUTO_READ_STATUS: "non",
+
+              // Si défini sur "oui", le bot téléchargera automatiquement tous les statuts WhatsApp
+                AUTO_DOWNLOAD_STATUS: "non",
+
+                  // Le nom affiché de votre bot
+                    BOT_NAME: "Zokou-MD",
+
+                      // Le thème visuel pour les menus du bot (nom prédéfini ou liens médias)
+                        MENU_THEME: "LUFFY",
+
+                          // Si "non", les commandes ne fonctionneront pas en privé pour les autres
+                            PM_PERMIT: "non",
+
+                              // Si "oui", le bot est disponible pour tout le monde ; si "non", seul le propriétaire peut l'utiliser
+                                MODE_PUBLIC: "oui",
+
+                                  // Contrôle l'activité visible du bot : 1 = en ligne, 2 = saisie, 3 = enregistrement, vide = réel
+                                    PRESENCE: "",
+
+                                      // Votre nom affiché (nom du propriétaire)
+                                        OWNER_NAME: "Bullet",
+
+                                          // Votre numéro de téléphone au format international
+                                            OWNER_NUMBER: "241 77 20 20 12",
+
+                                              // Nombre d'avertissements avant qu'un utilisateur ne soit sanctionné
+                                                WARN_COUNT: 3,
+
+                                                  // Si "oui", le bot envoie un message de bienvenue au démarrage
+                                                    STARTING_BOT_MESSAGE: "oui",
+
+                                                      // Si "oui", le bot répond automatiquement aux messages privés
+                                                        PM_CHATBOT: "non",
+
+                                                          // Si "oui", ajoute un délai entre les commandes pour éviter le spam
+                                                            ANTI_COMMAND_SPAM: "non",
+
+                                                              // Si "oui", les messages supprimés par d'autres vous seront envoyés en privé
+                                                                ANTI_DELETE_MESSAGE: "non",
+
+                                                                  // Si "oui", le bot réagit automatiquement aux messages entrants
+                                                                    AUTO_REACT_MESSAGE: "non",
+
+                                                                      // Si "oui", le bot réagit automatiquement aux statuts
+                                                                        AUTO_REACT_STATUS: "non",
+
+                                                                          // Fuseau horaire utilisé par le bot
+                                                                            TIME_ZONE: "Africa/Sao_Tome",
+
+                                                                              // Environnement serveur utilisé (ex : HEROKU, VPS, etc.)
+                                                                                SERVER: "vps",
+
+                                                                                  // Nom du pack de stickers utilisé par le bot
+                                                                                    STICKER_PACKNAME: "made with ❤; Son__Mauser",
+                                                                                    };
+
+                                                                                    //////////////////////////////////////////////////////////////////////////////////////////////
+                                                                                    /////////////////////////////////////////////////////////////////////////////////////////////
+                                                                                    /////////////////////////////////////////////////////////////////////////////////////////////
+
+                                                                                    function cloneRepository() {
+                                                                                      const cloneResult = spawnSync("git", [
+                                                                                          "clone",
+                                                                                              "https://gitlab.com/zokou1/zokou-Md-French.git",
+                                                                                                  "zokou",
+                                                                                                    ]);
+
+                                                                                                      if (cloneResult.error) {
+                                                                                                          console.error("Error cloning repository:", cloneResult.error);
+                                                                                                            }
+
+                                                                                                              const envFile = "zokou/set.env";
+
+                                                                                                                if (!fs.existsSync(envFile)) {
+                                                                                                                    for (const [key, value] of Object.entries(zokouEnv)) {
+                                                                                                                          value ? fs.appendFileSync(envFile, `${key}=${value}\n`) : null;
+                                                                                                                              }
+                                                                                                                                }
+
+                                                                                                                                  installDependancies();
+                                                                                                                                  }
+
+                                                                                                                                  function installDependancies() {
+                                                                                                                                    const result = spawnSync("npm", ["install"], {
+                                                                                                                                        cwd: "zokou",
+                                                                                                                                            stdio: "inherit",
+                                                                                                                                                env: { ...process.env, CI: "true" },
+                                                                                                                                                  });
+
+                                                                                                                                                    if (result.error || result.status !== 0) {
+                                                                                                                                                        console.error("Error installing dependencies:", result.error);
+                                                                                                                                                            process.exit(1);
+                                                                                                                                                              }
+                                                                                                                                                              }
+
+                                                                                                                                                              function checkDependencies() {
+                                                                                                                                                                const result = spawnSync("npm", ["ls"], {
+                                                                                                                                                                    cwd: "zokou",
+                                                                                                                                                                        stdio: "inherit",
+                                                                                                                                                                          });
+
+                                                                                                                                                                            if (result.status !== 0) {
+                                                                                                                                                                                console.log("Some dependencies are missing or invalid.");
+                                                                                                                                                                                    installDependancies();
+                                                                                                                                                                                      } else {
+                                                                                                                                                                                          console.log("All dependencies are installed properly.");
+                                                                                                                                                                                            }
+                                                                                                                                                                                            }
+
+                                                                                                                                                                                            function startPm2() {
+                                                                                                                                                                                              const pm2 = spawn(
+                                                                                                                                                                                                  "npx",
+                                                                                                                                                                                                      ["pm2", "start", "index.js", "--name", "zokou", "--attach"],
+                                                                                                                                                                                                          {
+                                                                                                                                                                                                                cwd: "zokou",
+                                                                                                                                                                                                                      stdio: "inherit",
+                                                                                                                                                                                                                          }
+                                                                                                                                                                                                                            );
+
+                                                                                                                                                                                                                              pm2.on("exit", (code) => {
+                                                                                                                                                                                                                                  if (code !== 0) console.error(`PM2 exited with code ${code}`);
+                                                                                                                                                                                                                                    });
+
+                                                                                                                                                                                                                                      pm2.on("error", (err) => {
+                                                                                                                                                                                                                                          console.error("PM2 encountered an error:", err);
+                                                                                                                                                                                                                                            });
+
+                                                                                                                                                                                                                                              pm2?.stderr?.on("data", (data) => {
+                                                                                                                                                                                                                                                  console.log(data.toString());
+                                                                                                                                                                                                                                                    });
+
+                                                                                                                                                                                                                                                      pm2?.stdout?.on("data", (data) => {
+                                                                                                                                                                                                                                                          console.log(data.toString());
+                                                                                                                                                                                                                                                            });
+                                                                                                                                                                                                                                                            }
+
+                                                                                                                                                                                                                                                            if (!fs.existsSync("zokou")) {
+                                                                                                                                                                                                                                                              cloneRepository();
+                                                                                                                                                                                                                                                              }
+
+                                                                                                                                                                                                                                                              checkDependencies();
+                                                                                                                                                                                                                                                              startPm2();
+
