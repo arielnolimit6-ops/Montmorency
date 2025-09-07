@@ -19,11 +19,11 @@
 
 ## 🌟 Pourquoi choisir Zokou-MD ?
 
-| Fonctionnalité | Description |
-|---------------|-------------|
-| 🎛️ **Multi-appareils** | Utilisez le même bot sur plusieurs devices simultanément |
-| ⚡ **Performances** | Temps de réponse optimisé grâce à une architecture légère |
-| 🧩 **Modulaire** | Activez/désactivez les modules selon vos besoins |
+| Fonctionnalité         | Description                                               |
+| ---------------------- | --------------------------------------------------------- |
+| 🎛️ **Multi-appareils** | Utilisez le même bot sur plusieurs devices simultanément  |
+| ⚡ **Performances**    | Temps de réponse optimisé grâce à une architecture légère |
+| 🧩 **Modulaire**       | Activez/désactivez les modules selon vos besoins          |
 
 ---
 
@@ -49,7 +49,6 @@ Déployez instantanément sur Heroku :
 <summary>Cliquez pour voir le script</summary>
 
 ```js
-
 const fs = require("fs");
 const { spawnSync, spawn } = require("child_process");
 
@@ -204,12 +203,12 @@ if (!fs.existsSync("zokou")) {
 
 checkDependencies();
 startPm2();
-
 ```
 
 </details>
 
 #### b. Méthode manuelle
+
 Pour une installation classique sur un panel ou un VPS :
 
 [![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=github)](https://gitlab.com/zokou1/zokou-Md-French/-/archive/main/zokou-Md-French-main.zip?ref_type=heads)
@@ -231,11 +230,11 @@ npm start
 
 ### 🔑 Accès Rapide
 
-| Service | Lien | Statut |
-|---------|------|--------|
-| **Session Scan** | [https://zokou-scan.onrender.com](https://zokou-scan.onrender.com) | ![Online](https://img.shields.io/badge/Status-Online-green) |
+| Service            | Lien                                                               | Statut                                                      |
+| ------------------ | ------------------------------------------------------------------ | ----------------------------------------------------------- |
+| **Session Scan**   | [https://zokou-scan.onrender.com](https://zokou-scan.onrender.com) | ![Online](https://img.shields.io/badge/Status-Online-green) |
 | **Session Scan 2** | [zokouscan-din3.onrender.com](https://zokouscan-din3.onrender.com) | ![Online](https://img.shields.io/badge/Status-Online-green) |
-| **Backup Server** | [zokou-web.onrender.com](https://zokou-web.onrender.com/) | ![Online](https://img.shields.io/badge/Status-Online-green) |
+| **Backup Server**  | [zokou-web.onrender.com](https://zokou-web.onrender.com/)          | ![Online](https://img.shields.io/badge/Status-Online-green) |
 
 ### ⚙️ Configuration Minimaliste
 
@@ -250,15 +249,15 @@ OWNER_NUMBER="22891733300"       # Votre numéro WhatsApp
 
 ### 🏆 Contributeurs Clés
 
-| Membre | Contribution | Lien |
-|--------|--------------|------|
-| **Fatao** | Commandes GPT/DALL-E • Modules APK | [GitHub](https://github.com/fatao) |
-| **CrazyPrince** | Hébergement d'un service de session | site fermer |
+| Membre          | Contribution                        | Lien                               |
+| --------------- | ----------------------------------- | ---------------------------------- |
+| **Fatao**       | Commandes GPT/DALL-E • Modules APK  | [GitHub](https://github.com/fatao) |
+| **CrazyPrince** | Hébergement d'un service de session | site fermer                        |
 
 ### 🌟 Soutiens Spéciaux
 
-- **La communauté Zokou** pour les tests et feedbacks  
-- **Contributors** sur GitHub ([Voir tous](https://gitlab.com/zokou1/zokou-Md-French.git/graphs/contributors))  
+- **La communauté Zokou** pour les tests et feedbacks
+- **Contributors** sur GitHub ([Voir tous](https://gitlab.com/zokou1/zokou-Md-French.git/graphs/contributors))
 - **Beta Testers** pour leur patience sur les versions instables 😅
 
 ### 📚 Bibliothèques Utilisées
